@@ -3,7 +3,7 @@ title: "Return Response"
 date: 2022-09-19T23:33:20+04:00
 draft: false
 ---
-It's a return helper for showing standard json responses. [GitHub link](https://github.com/soltancode/ReturnResponse).
+It's a return helper for showing standard json responses. <a href="https://github.com/soltancode/ReturnResponse" target="_blank">GitHub link</a>.
 
 ## Installation
 

@@ -2,6 +2,8 @@ baseURL = 'https://soltancode.com/'
 languageCode = 'en-us'
 title = 'soltancode'
 theme = 'paper'
+enableRobotsTXT = true
+googleAnalytics = "UA-89604174-13"
 
 [author]
   email = "soltancode@gmail.com"

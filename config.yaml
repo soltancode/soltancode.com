@@ -1,0 +1,44 @@
+baseURL: "https://soltancode.com/"
+languageCode: "en-us"
+title: "soltancode"
+theme: "paper"
+enableRobotsTXT: true
+googleAnalytics: "UA-89604174-13"
+
+author:
+  email: "soltancode@gmail.com"
+  name: "Soltan Abilgasimzada"
+
+params:
+  # color style
+  color: "linen"            # linen, wheat, gray, light
+
+  # header social icons
+  twitter: "soltancode"     # twitter.com/YOUR_TWITTER_ID
+  github: "soltancode"      # github.com/YOUR_GITHUB_ID
+  instagram: "soltancode"   # instagram.com/YOUR_INSTAGRAM_ID
+  rss: true                 # show rss icon with link
+
+  # home page profile
+  bioCardActive: true,
+  avatar: "soltan.ebilqasimzade@gmail.com"       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+  name: "Soltan Abilgasimzada"
+  bio: "I am Soltan, Software Engineer with more than 5 years of experience. I stared my developer career as a freelance web developer on 2017. I am working as a Full Stack Developer."
+
+  # misc
+  # disableHLJS: true              # disable requesting highlight.js
+  # monoDarkIcon: true             # show monochrome dark mode icon
+
+markup.goldmark.renderer:
+  unsafe: true
+
+#menu:
+#  main:
+#    - identifier: "archive"
+#      name: "Archive"
+#      url: "/posts"
+#      weight: 10
+#    - identifier: "essays"
+#      name: "Essays"
+#      url: "/essays"
+#      weight: 20

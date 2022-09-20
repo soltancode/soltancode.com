@@ -28,8 +28,10 @@ params:
   # disableHLJS: true              # disable requesting highlight.js
   # monoDarkIcon: true             # show monochrome dark mode icon
 
-markup.goldmark.renderer:
-  unsafe: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 #menu:
 #  main:

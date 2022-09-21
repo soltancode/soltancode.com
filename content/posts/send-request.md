@@ -1,5 +1,5 @@
 ---
-title: "Send Request"
+title: "PHP Send Request Composer Package"
 tags: ["php", "curl", "json", "rest", "api", "Guzzle", "requests", "laravel", "httpclient", "http-client", "soltancode"]
 date: 2022-09-21T20:53:54+04:00
 description: "PHP cURL class that makes it easy to send HTTP requests and integrate with web APIs."

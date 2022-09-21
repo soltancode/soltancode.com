@@ -4,7 +4,7 @@ tags: ["php", "curl", "json", "rest", "api", "Guzzle", "requests", "laravel", "h
 date: 2022-09-21T20:53:54+04:00
 description: "PHP cURL class that makes it easy to send HTTP requests and integrate with web APIs."
 draft: false
-images: ["https://soltancode.com/images/soltancode_send_request.png"]
+images: ["https://soltancode.com/posts/send-request/images/soltancode_send_request.png"]
 ---
 
 PHP cURL class that makes it easy to send HTTP requests and integrate with web APIs. Here is the <a href="https://github.com/soltancode/SendRequest" target="_blank">GitHub link</a>.

@@ -6,7 +6,7 @@ description: "It's a return helper for showing standard json responses."
 draft: false
 ---
 
-It's a return helper for showing standard json responses. <a href="https://github.com/soltancode/ReturnResponse" target="_blank">GitHub link</a>.
+It's a return helper for showing standard json responses. Here is the <a href="https://github.com/soltancode/ReturnResponse" target="_blank">GitHub link</a>.
 
 ## Installation
 
@@ -36,6 +36,9 @@ Response example:
     }
 }
 ```
+
+## Other Packages
+[SendRequest](https://github.com/soltancode/SendRequest) - PHP cURL class that makes it easy to send HTTP requests and integrate with web APIs.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

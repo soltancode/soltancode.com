@@ -1,5 +1,5 @@
 ---
-title: "PHP Return Response Package"
+title: "PHP Return Response Package for Laravel Framework"
 tags: ["api", "json", "laravel", "response", "return"]
 date: 2022-09-19T23:33:20+04:00
 description: "Simple package for returning standard json responses for Laravel Framework."

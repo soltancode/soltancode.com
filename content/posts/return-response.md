@@ -1,7 +1,7 @@
 ---
 title: "PHP Return Response Package for Laravel Framework"
 tags: ["api", "json", "laravel", "response", "return"]
-date: 2022-09-19T23:33:20+04:00
+date: 2022-09-30T16:00:00+04:00
 description: "Simple package for returning standard json responses for Laravel Framework."
 draft: false
 ---
@@ -16,16 +16,18 @@ composer require soltancode/return-response
 
 ## Usage
 
+#### If you use it as class (facade), import this:
+```php
+use Soltancode\ReturnResponse\Facades\ReturnResponse;
+```
+
 #### Code example:
 ```php
-# If you don't use this as helper, import this.
-use Soltancode\ReturnResponse\Facades\ReturnResponse;
-
 // $httpResponse = 200;
 // $data         = ['success' => true];
 // $message      = "Operation done successfully.";
 
-# Using as facade:
+# Using as class:
 return ReturnResponse::response($httpResponse, $data, $message);
 
 # Using as helper:

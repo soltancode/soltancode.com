@@ -127,3 +127,9 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://github.com/soltancode/SendRequest/blob/main/LICENSE)
+
+<hr/>
+
+<iframe id='kofiframe' src='https://ko-fi.com/soltancode/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;background:#faf6f1;' height='610' title='soltancode'></iframe>
+
+<hr/>
